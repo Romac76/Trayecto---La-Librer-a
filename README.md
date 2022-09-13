@@ -1,2 +1,2 @@
-# Trayecto---La-Librer-a
+# Trayecto-La-Libreria
 Proyecto web de prueba
